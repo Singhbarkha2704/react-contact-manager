@@ -1,0 +1,19 @@
+{
+    "contacts": [
+        {
+            "id": "150437ef-f38b-4e0e-ba55-7812bea69dd9",
+            "name": "Barkha Singh",
+            "email": "barkha.singh@globallogic.com"
+        },
+        {
+            "id": "ee3557bb-31d5-4639-9fbd-831d96a1b3b1",
+            "name": "Mayra",
+            "email": "mayra.kunnu@gmail.com"
+        },
+        {
+            "id": "d2e38542-f845-4b85-8212-9d6fd8e01f2c",
+            "name": "Barkha Singh",
+            "email": "barkha27041996@gmail.com"
+        }
+    ]
+}
